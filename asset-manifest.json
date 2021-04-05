@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/internship/static/css/main.a0320346.chunk.css",
+    "main.js": "/internship/static/js/main.f0c3cff3.chunk.js",
+    "main.js.map": "/internship/static/js/main.f0c3cff3.chunk.js.map",
+    "runtime-main.js": "/internship/static/js/runtime-main.ab87811c.js",
+    "runtime-main.js.map": "/internship/static/js/runtime-main.ab87811c.js.map",
+    "static/js/2.c243049d.chunk.js": "/internship/static/js/2.c243049d.chunk.js",
+    "static/js/2.c243049d.chunk.js.map": "/internship/static/js/2.c243049d.chunk.js.map",
+    "index.html": "/internship/index.html",
+    "static/css/main.a0320346.chunk.css.map": "/internship/static/css/main.a0320346.chunk.css.map",
+    "static/js/2.c243049d.chunk.js.LICENSE.txt": "/internship/static/js/2.c243049d.chunk.js.LICENSE.txt",
+    "static/media/GoJoji_Trim.679cced6.mp4": "/internship/static/media/GoJoji_Trim.679cced6.mp4",
+    "static/media/boxgame.bc934df5.mp4": "/internship/static/media/boxgame.bc934df5.mp4",
+    "static/media/chat.960ea0e0.mp4": "/internship/static/media/chat.960ea0e0.mp4",
+    "static/media/email.b1eb7c3b.png": "/internship/static/media/email.b1eb7c3b.png",
+    "static/media/myimg.a28013e4.jpg": "/internship/static/media/myimg.a28013e4.jpg",
+    "static/media/phone.97cf3a3d.png": "/internship/static/media/phone.97cf3a3d.png",
+    "static/media/register_login.f0325f93.mp4": "/internship/static/media/register_login.f0325f93.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab87811c.js",
+    "static/js/2.c243049d.chunk.js",
+    "static/css/main.a0320346.chunk.css",
+    "static/js/main.f0c3cff3.chunk.js"
+  ]
+}
